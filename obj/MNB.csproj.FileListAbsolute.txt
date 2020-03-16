@@ -1,0 +1,14 @@
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Debug\MNB.Form1.resources
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Debug\MNB.csproj.GenerateResource.Cache
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\bin\Debug\MNB.dll
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\bin\Debug\MNB.pdb
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Debug\MNB.dll
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Debug\MNB.pdb
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\bin\Release\MNB.dll
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Release\MNB.Form1.resources
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Release\MNB.csproj.GenerateResource.Cache
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\obj\Release\MNB.dll
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\bin\Debug\MNB.dll.config
+C:\Users\NemethA\Documents\InfoPath-projektek\MNB\bin\Release\MNB.dll.config
